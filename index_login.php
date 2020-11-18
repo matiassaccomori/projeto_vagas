@@ -17,6 +17,7 @@ session_start();
   <!-- Bootstrap -->
   <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
   <link href="css/heroic-features.css" rel="stylesheet">
+  <link rel="shortcut icon" href="img/favicon/favicon.ico" type="image/x-icon">
 
 </head>
 
